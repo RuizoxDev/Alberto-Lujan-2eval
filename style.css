@@ -83,7 +83,15 @@ div.contacte {
     text-align: center;
     position: fixed;
     width: 700px;
-    height: 300px;
+    height: 400px;
     color: blue;
 }
 
+input.opinio {
+    height: 180px;
+    width: 220px;
+}
+
+h3.peli {
+    margin-left: -130px;
+}
